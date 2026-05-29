@@ -111,7 +111,6 @@ pip install reportlab
 # Generate PDF
 python generate_pdf.py
 ```
-This generates the book **`A_Life_Pacman_Architecture.pdf`** in your root directory.
 
 ---
 
